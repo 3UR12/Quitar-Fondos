@@ -36,6 +36,4 @@ Este proyecto es una aplicación de escritorio creada en Python utilizando **Tki
 - **Elimina el fondo** automáticamente con un solo clic.
 - **Guarda la imagen** procesada en el formato que prefieras.
 
-Este proyecto es una herramienta útil para diseñadores, creadores de contenido, y cualquier persona que necesite eliminar fondos de imágenes de manera rápida y fácil.
-
 ---
